@@ -10,14 +10,14 @@ theme: minima
 
 header_pages:
   - _pages/homepage.md
-  - _pages/about.md
+#  - _pages/about.md
  
 
 include:
     - _pages
     
     
-base-url: /about.md
+ 
 
 
 plugins:
