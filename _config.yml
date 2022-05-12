@@ -1,0 +1,27 @@
+author: R Kash
+description: Having a purpose after achieving Financial Independence (FI)
+url: https://FIREwithPurpose.com
+email: rk [at] FIREwithPurpose.com
+title: FIRE with Purpose
+
+theme: minima
+
+
+
+header_pages:
+  - _pages/homepage.md
+  - _pages/about.md
+  - _pages/FI-Vehicles.md
+ # - _pages/budgeting.md
+  - _pages/blog.md
+
+include:
+    - _pages
+    
+    
+base-url: /FIREwithPurpose
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
